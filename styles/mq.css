@@ -1,0 +1,67 @@
+@media (min-width: 1440px) {
+
+    main {
+        width: 800px;
+    }
+
+    .block-one {
+        padding: 45px 40px 48px 40px;
+    }
+
+    .block-one  h1 {
+        font-size: 30px;
+        padding-bottom: 34px;
+    }
+
+    .block-one h2 {
+        font-size: 22px;
+        padding-bottom: 22px;
+    }
+
+    .block-one p {
+        font-size: 20px;
+    }
+
+    .flex-section {
+        display: flex;
+    }
+
+    .block-two {
+        padding: 45px 40px 39px 40px;
+        flex: 50%;
+    }
+
+    .block-two h2 {
+        font-size: 23px;
+    }
+
+    .price {
+        font-size: 20px;
+    }
+
+    .price span {
+        font-size: 42px;
+    }
+
+    .details {
+        font-size: 20px;
+    }
+
+    .btn {
+        font-size: 20px;
+    }
+
+    .block-three {
+        padding: 45px 40px 45px 40px;
+        flex: 50%;
+    }
+
+    .block-three h2 {
+        font-size: 23px;
+    }
+
+    ul {
+        font-size: 18px;
+        line-height: 27px;
+    }
+}
